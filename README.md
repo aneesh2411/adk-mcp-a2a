@@ -46,7 +46,7 @@ adk-mcp-a2a/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/adk-mcp-a2a.git
+git clone https://github.com/aneesh2411/adk-mcp-a2a.git
 cd adk-mcp-a2a
 ```
 
@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🛟 Support
 
 For issues and questions:
-1. Check the [Issues](https://github.com/yourusername/adk-mcp-a2a/issues) page
+1. Check the [Issues](https://github.com/aneesh2411/adk-mcp-a2a/issues) page
 2. Review the ADK documentation
 3. Check MCP server documentation for specific integrations
 
